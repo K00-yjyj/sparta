@@ -67,7 +67,7 @@ for i in range(std):
                 if arr[center - diff] == 0:
                     arr[center - diff] = 1
                     arr[center + diff] = 1
-                elif:
+                else:
                     arr[center - diff] = 0
                     arr[center + diff] = 0
                 
